@@ -1,5 +1,9 @@
 # RebuNative
 
+A ride sharing app build with React Native.
+
+[See it in action on Expo](https://expo.dev/@danengel/rebu)
+
 ## Authors: Ceylin Brooks, Brendan Smith, Yuliya Barysevich, Dan Engel
 
 [Team Agreement](https://github.com/CeylinBrooks/rebu/blob/main/team-agreement.md)
